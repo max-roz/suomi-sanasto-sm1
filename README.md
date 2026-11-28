@@ -24,7 +24,7 @@
 
 Весь тренажер собран в один автономный HTML-файл, поэтому его можно сохранить на устройство и заниматься офлайн:
 
-1. Скачайте файл `SuomenSanastoA1.html` [прямая ссылка на скачивание](https://github.com/max-roz/suomi-sanasto-A1/releases/download/V1.0/SuomenSanastoA1.html) (нажмите правой кнопкой мыши → *«Сохранить ссылку как...»*) или скачайте [ZIP-архив репозитория](https://github.com/max-roz/suomi-sanasto-A1/archive/refs/heads/main.zip) и распакуйте его.
+1.Скачайте [ZIP-архив репозитория](https://github.com/max-roz/suomi-treeni/archive/refs/heads/main.zip) и распакуйте его.
 2. Откройте скачанный файл двойным кликом — он запустится в вашем браузере.
 
 
