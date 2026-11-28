@@ -2,7 +2,7 @@
 
 Этот тренажер теперь является частью общего комплекса **Suomi-treeni** (словарь A1, спряжение глаголов и падежи).
 
-👉 **[Открыть обновленный тренажер](max-roz.github.io/suomi-treeni/)**  
+👉 **[Открыть обновленный тренажер](https://max-roz.github.io/suomi-sanasto-A1/SuomenSanastoA1.html)**  
 📦 **[Перейти в новый репозиторий](https://github.com/max-roz/suomi-treeni)**
 
 
